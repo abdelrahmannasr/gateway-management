@@ -1,0 +1,148 @@
+{
+  "gateways": [
+    {
+      "id": 1,
+      "serialNumber": "9375932-3322-017",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146",
+      "peripheralDevices": [
+        {
+          "id": 2,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:34:14.294Z",
+          "status": "Offline"
+        },
+        {
+          "id": 3,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:34:21.065Z",
+          "status": "Offline"
+        },
+        {
+          "id": 4,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:34:28.791Z",
+          "status": "Offline"
+        },
+        {
+          "id": 5,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:34:34.254Z",
+          "status": "Offline"
+        },
+        {
+          "id": 7,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:35:13.685Z",
+          "status": "Offline"
+        },
+        {
+          "id": 8,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:35:13.685Z",
+          "status": "Offline"
+        },
+        {
+          "id": 9,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T20:37:24.578Z",
+          "status": "Offline"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146",
+      "peripheralDevices": [
+        {
+          "id": 1,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T21:09:52.493Z",
+          "status": "Offline"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146"
+    },
+    {
+      "id": 4,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146"
+    },
+    {
+      "id": 5,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146",
+      "peripheralDevices": [
+        {
+          "id": 1,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T02:47:34.165Z",
+          "status": "Offline"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.0. 2.146",
+      "peripheralDevices": [
+        {
+          "id": 1,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T09:31:38.188Z",
+          "status": "Offline"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "serialNumber": "9375932-3322-015",
+      "name": "Gateway 1",
+      "ipv4Address": "192.168.1.100",
+      "peripheralDevices": [
+        {
+          "id": 1,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T09:36:18.108Z",
+          "status": "Offline"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "serialNumber": "9375932-3322-019",
+      "name": "Gateway 1",
+      "ipv4Address": "192.168.1.1",
+      "peripheralDevices": [
+        {
+          "id": 1,
+          "uid": "001",
+          "vendor": "Cisco",
+          "dateCreated": "2023-08-16T18:58:47.781Z",
+          "status": "Offline"
+        }
+      ]
+    }
+  ]
+}
