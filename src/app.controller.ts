@@ -99,7 +99,6 @@ export class AppController {
     @Query('serialNumber') serialNumber: string,
   ): Promise<Gateway> {
     try {
-      console.log(serialNumber);
       return this.appService.getGatewayBySerialNumber(serialNumber);
     } catch (error) {
       this.logger.error(error);
@@ -140,7 +139,7 @@ export class AppController {
     type: Gateway,
   })
   @UsePipes(new ValidationPipe({ transform: true }))
-  Device(
+  deleteDevice(
     @Body() deletePeripheralDeviceDto: DeletePeripheralDeviceDto,
   ): Promise<Gateway> {
     try {

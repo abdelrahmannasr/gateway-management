@@ -29,6 +29,7 @@ export class AppService {
           await this.gatewaysRepository.getGatewayBySerialNumber(
             gatewayDto.serialNumber,
           );
+
         if (foundGateway && foundGateway instanceof Gateway)
           return reject(
             new HttpException(
@@ -48,7 +49,7 @@ export class AppService {
           )
             return reject(
               new HttpException(
-                `Devices cannot exceeded more than ${Constants.MAX_PERIPHERAL_DEVICES} Device`,
+                `Devices cannot exceed more than ${Constants.MAX_PERIPHERAL_DEVICES} Device`,
                 HttpStatus.BAD_REQUEST,
               ),
             );
