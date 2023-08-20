@@ -68,6 +68,9 @@ npm install -g json-server
 json-server --watch db.json
 ```
 
+## Swagger
+http://localhost:3001/swagger#/
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
