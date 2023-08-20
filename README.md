@@ -71,6 +71,9 @@ json-server --watch db.json
 ## Swagger
 http://localhost:3001/swagger#/
 
+<img width="1512" alt="Screenshot 2023-08-20 at 10 59 26 AM" src="https://github.com/abdelrahmannasr/gateway-management/assets/37974483/274c62f4-5746-437e-b376-405fb939d581">
+
+
 ## License
 
 Nest is [MIT licensed](LICENSE).
